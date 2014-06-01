@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ActionRpg", "ActionRpg.vcxproj", "{FAD471F7-7B66-44D5-AE3F-A242B625329E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{208E1CED-E9B7-4CC2-BA03-3369909C1A17}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\git\SimpleRPG\SimpleRPG\images\player_sprite_sheet.png = ..\..\..\..\git\SimpleRPG\SimpleRPG\images\player_sprite_sheet.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD471F7-7B66-44D5-AE3F-A242B625329E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAD471F7-7B66-44D5-AE3F-A242B625329E}.Debug|Win32.Build.0 = Debug|Win32
+		{FAD471F7-7B66-44D5-AE3F-A242B625329E}.Release|Win32.ActiveCfg = Release|Win32
+		{FAD471F7-7B66-44D5-AE3F-A242B625329E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
